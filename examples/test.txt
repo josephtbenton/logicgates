@@ -1,0 +1,6 @@
+input a;
+b = not a;
+c = a xor b;
+output b;
+output a;
+output c

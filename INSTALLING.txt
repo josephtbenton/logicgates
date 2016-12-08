@@ -1,0 +1,11 @@
+------------------------------------------
+------------ Installing ---------------
+------------------------------------
+
+To use LogicGates, you must have ghc and Parsec installed.
+ghc:    https://www.haskell.org/ghc/download_ghc_7_6_1
+Parsec: https://hackage.haskell.org/package/parsec
+
+run `ghc --make logic.hs`
+
+This command results in an executable, `logic`.

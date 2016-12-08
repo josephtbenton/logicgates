@@ -1,0 +1,8 @@
+input a;
+input b;
+
+s = a xor b;
+c = a and b;
+
+output s;
+output c
